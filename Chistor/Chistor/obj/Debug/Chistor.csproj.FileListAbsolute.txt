@@ -1,0 +1,7 @@
+Z:\Практические ИСРПО\Настройка работы системы контроля версий\Chistor\Chistor\bin\Debug\Chistor.exe.config
+Z:\Практические ИСРПО\Настройка работы системы контроля версий\Chistor\Chistor\bin\Debug\Chistor.exe
+Z:\Практические ИСРПО\Настройка работы системы контроля версий\Chistor\Chistor\bin\Debug\Chistor.pdb
+Z:\Практические ИСРПО\Настройка работы системы контроля версий\Chistor\Chistor\obj\Debug\Chistor.csprojAssemblyReference.cache
+Z:\Практические ИСРПО\Настройка работы системы контроля версий\Chistor\Chistor\obj\Debug\Chistor.csproj.CoreCompileInputs.cache
+Z:\Практические ИСРПО\Настройка работы системы контроля версий\Chistor\Chistor\obj\Debug\Chistor.exe
+Z:\Практические ИСРПО\Настройка работы системы контроля версий\Chistor\Chistor\obj\Debug\Chistor.pdb
